@@ -1,6 +1,6 @@
 name: Thesulac
 favicon: null
-layout_spectrum: 0.7318846064154059
+layout_spectrum: 1
 typography_spectrum: 0.9905410851351917
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.6770966434851289
+  brandStrength: 0.6875
   lightness: 0.09672272764146328
   saturation: 0.8167692148126662
   rhythmicContrast: 0.18431424559094012
