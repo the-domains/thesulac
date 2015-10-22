@@ -1,0 +1,23 @@
+name: Thesulac
+favicon: null
+layout_spectrum: 0.7318846064154059
+typography_spectrum: 0.9905410851351917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6770966434851289
+  lightness: 0.09672272764146328
+  saturation: 0.8167692148126662
+  rhythmicContrast: 0.18431424559094012
+purpose: []
