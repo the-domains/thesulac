@@ -4,8 +4,15 @@
         <description><![CDATA[Thesulac - AI Webdesign]]></description>
         <link>https://thegrid.ai/thesulac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 17:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 06:57:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thesulac/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A React-like user interface micro-library]]></title>
+            <description><![CDATA[<article><h1>A React-like user interface micro-library</h1><p>Custom tags * Enjoyable syntax * Virtual DOM * Tiny size The frontend space is indeed crowded, but we honestly feel the solution is still "out there". We believe Riot offers the right balance for solving the great puzzle. While React seems to do it, they have serious weak points that Riot will solve.</p><img src="http://riotjs.com/img/logo/riot240x.png"></article>]]></description>
+            <link>http://riotjs.com/</link>
+            <guid isPermaLink="false">7bc94634-8a05-433d-a549-66e8885fc33e</guid>
+            <pubDate>Fri, 23 Oct 2015 06:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
